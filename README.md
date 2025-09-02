@@ -44,8 +44,7 @@
 - **결과**: 네트워크 상태가 불안정해도 모든 클라이언트는 동일한 문제를 보고, 남은 시간도 일치하게 되어 안정적인 실시간 퀴즈 플레이가 가능해졌습니다.
 
 ## ERD다이어그램
-<img width="599" height="546" alt="스크린샷 2025-09-02 12 50 42" src="https://github.com/user-attachments/assets/8009dea9-4f39-4ec5-93df-79c79ab7d88e" />
-
+<img width="588" height="598" alt="스크린샷 2025-09-02 13 56 58" src="https://github.com/user-attachments/assets/d31947d9-31f2-4ce5-80d5-7b41f1fef7dc" />
 
 ## 유스케이스다이어그램
 <img width="648" height="232" alt="image" src="https://github.com/user-attachments/assets/c88aecab-e56f-4ce6-9161-dde76c6d3ff0" />
