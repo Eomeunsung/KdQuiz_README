@@ -44,16 +44,20 @@
 - **결과**: 네트워크 상태가 불안정해도 모든 클라이언트는 동일한 문제를 보고, 남은 시간도 일치하게 되어 안정적인 실시간 퀴즈 플레이가 가능해졌습니다.
 
 ## ERD다이어그램
-<img width="1161" height="543" alt="스크린샷 2025-08-02 15 30 32" src="https://github.com/user-attachments/assets/377df189-5e16-4c1b-a13e-8c813b4c49d7" />
+<img width="599" height="546" alt="스크린샷 2025-09-02 12 50 42" src="https://github.com/user-attachments/assets/8009dea9-4f39-4ec5-93df-79c79ab7d88e" />
 
-## 흐름도
+
+## 유스케이스다이어그램
+<img width="648" height="232" alt="image" src="https://github.com/user-attachments/assets/c88aecab-e56f-4ce6-9161-dde76c6d3ff0" />
+
+## 시퀀스 다이어그램
 <table>
     <tr>
     <td>
-      <img width="562" height="362" alt="스크린샷 2025-08-26 18 24 40" src="https://github.com/user-attachments/assets/e7978416-ba54-43b7-9b63-0dd9f1ed3bc3" />
+      <img width="605" height="542" alt="image" src="https://github.com/user-           attachments/assets/969eb60b-9a35-406a-aca3-a4212667f2a0" />
     </td>
     <td>
-       <img width="697" height="452" alt="스크린샷 2025-08-26 18 59 24" src="https://github.com/user-attachments/assets/8632da2a-9208-457f-8a1c-0a1afc1a19c9" />
+      <img width="605" height="515" alt="image" src="https://github.com/user-          attachments/assets/71ea0edc-cd83-4413-a097-4a054ebfde18" />
     </td>
   </tr>
   <tr>
@@ -62,24 +66,27 @@
   </tr>
   
   <tr>
-    <td><img width="448" height="663" alt="quiz create" src="https://github.com/user-attachments/assets/8c7419fa-5dbd-47d0-ab3d-8bd0cf377674" /></td>
-    <td><img width="335" height="585" alt="스크린샷 2025-07-23 13 29 40" src="https://github.com/user-attachments/assets/c4b038e0-1cfb-4676-a365-07e188ed3832" /></td>
+    <td>
+      <img width="558" height="732" alt="image" src="https://github.com/user-          attachments/assets/dd30c2b9-6e0a-45fc-a475-32db0b53e750" />
+    </td>
+    <td>
+      <img width="605" height="520" alt="image" src="https://github.com/user-          attachments/assets/5c19f7af-2eb4-4b1b-bd13-20d01572cbeb" />
+    </td>
   </tr>
   <tr>
-    <td align="center">Quiz 생성</td>
-    <td align="center">Quiz 수정(아직 반영 안함)</td>
+    <td align="center">로그아웃</td>
+    <td align="center">개인정보 수정</td>
   </tr>
 
   <tr>
     <td>
-      <img width="392" height="629" alt="스크린샷 2025-07-23 13 25 31" src="https://github.com/user-attachments/assets/67dfd1ad-45aa-4f4a-b3d0-50c81f991320" />
-      </td>
+      <img width="605" height="496" alt="image" src="https://github.com/user-          attachments/assets/89105d84-6c3c-474e-b4a0-a03e24735356" />
     <td>
       <img width="671" height="601" alt="스크린샷 2025-08-26 14 32 09" src="https://github.com/user-attachments/assets/e223e4ba-5bf0-4340-9094-82a56aec8cb7" />
     </td>
   </tr>
   <tr>
-    <td align="center">Quiz 삭제</td>
+    <td align="center">Quiz 제작 및 수정</td>
     <td align="center">게임 생성</td>
   </tr>
 
