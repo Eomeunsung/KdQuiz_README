@@ -107,93 +107,46 @@
 </table>
 
 ## 프로젝트 결과물
-<img width="1404" height="807" alt="main" src="https://github.com/user-attachments/assets/4bbca513-707c-49dc-adac-1ffd46ecd0b4" />
+
+<img width="605" height="339" alt="image" src="https://github.com/user-attachments/assets/3d2e33d0-c57f-45c3-8378-c4368d4c33ad" />
 
 - **메인화면**
 ---
-  
-<img width="1404" height="807" alt="signUp" src="https://github.com/user-attachments/assets/c66a5589-c96d-4a51-a7c4-89f37e2c3f6b" />
 
-- **회원가입 화면**
----
-
-<img width="1404" height="807" alt="signIn" src="https://github.com/user-attachments/assets/90a24e79-355f-4b8b-b9c3-70c92f3467bb" />
+<img width="605" height="339" alt="image" src="https://github.com/user-attachments/assets/a1f68adf-3c36-4292-9374-5118a0f1b721" />
 
 - **로그인 화면**
 ---
 
-<img width="1404" height="807" alt="quiz create" src="https://github.com/user-attachments/assets/e8f849de-144a-4f84-9b3d-f261c5834d6b" />
+<img width="605" height="339" alt="image" src="https://github.com/user-attachments/assets/d6f06b0d-f242-40c9-a845-e8923f101181" />
 
-- **퀴즈 생성 화면**
+- **회원가입 화면**
 ---
 
-<img width="1404" height="807" alt="quiz create2" src="https://github.com/user-attachments/assets/b3b78e4f-b32f-4cd1-a79b-80c166396a5b" />
+<img width="605" height="340" alt="image" src="https://github.com/user-attachments/assets/114f362b-b13f-496a-9c65-880f651c1417" />
 
-- **퀴즈 제작 화면(AI 힌트 사용)**
+- **프로젝트 라이브러리 화면**
 ---
 
-<img width="1404" height="807" alt="quiz create3" src="https://github.com/user-attachments/assets/36d90d86-43f2-4d5a-9572-e26b1f15f2d5" />
+<img width="1440" height="809" alt="스크린샷 2025-09-02 13 41 15" src="https://github.com/user-attachments/assets/de180ce7-a2bd-428d-9c34-c56c3fb93002" />
 
-
-- **퀴즈 제작 화면2**
+- **퀴즈 제작 화면**
 ---
 
-<img width="1404" height="807" alt="quiz create main" src="https://github.com/user-attachments/assets/5544d4f4-127c-43f2-96cc-a87535ca1a94" />
+<img width="1440" height="809" alt="스크린샷 2025-09-02 13 41 29" src="https://github.com/user-attachments/assets/8ac6ce67-aff9-4279-8591-fc72b016a05f" />
 
-- **개인 채팅 화면**
+- **게임 참여**
 ---
 
-<img width="1404" height="807" alt="game create" src="https://github.com/user-attachments/assets/3aba3557-e23c-41bd-b184-7799363c2abf" />
+<img width="1440" height="809" alt="스크린샷 2025-09-02 13 41 34" src="https://github.com/user-attachments/assets/6433ca5b-16dc-4b10-b293-a474a568a53b" />
+<img width="1440" height="809" alt="스크린샷 2025-09-02 13 43 51" src="https://github.com/user-attachments/assets/6781a2a7-9229-4cd4-b303-4718fde88b64" />
 
-- **게임 생성 화면**
+- **게임 플레이 화면**
 ---
 
-<img width="1404" height="807" alt="lobby" src="https://github.com/user-attachments/assets/491a9122-2f0a-494b-b128-0ff42ac689cb" />
+<img width="1440" height="809" alt="스크린샷 2025-09-02 13 44 01" src="https://github.com/user-attachments/assets/94f8e7f2-4e69-4fc4-808f-f2a18443b8cd" />
 
-- **호스트 로비 화면**
+- **점수 및 랭킹 화면**
 ---
 
-<img width="1404" height="807" alt="lobby2" src="https://github.com/user-attachments/assets/491a9122-2f0a-494b-b128-0ff42ac689cb" />
-
-- **참여자 게임 참여 화면**
----
-
-<img width="1404" height="807" alt="lobby3" src="https://github.com/user-attachments/assets/09ac8ff7-4513-48fa-b98d-8e7362203774" />
-
-- **참여자/호스트 로비 화면**
----
-
-<img width="1095" height="506" alt="스크린샷 2025-08-27 11 45 31" src="https://github.com/user-attachments/assets/f1267ccb-fa7b-49f9-a835-59a564cdb525" />
-
-- **강퇴 기능**
----
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a6f2f88d-1f3d-4191-87dc-c890b1e12e20" width="45%" />
-  <img src="https://github.com/user-attachments/assets/9f7e45d6-5a0c-4b47-aadb-645e00bbd9ff" width="45%" />
-</p>
-
-
-- **문제 풀이**
----
-
-<img width="1432" height="583" alt="스크린샷 2025-08-27 12 09 21" src="https://github.com/user-attachments/assets/efbccfec-166a-467b-a54f-f9b00088b598" />
-
-- **게임 종료 후 랭킹 반환**
----
-
-<img width="1390" height="781" alt="스크린샷 2025-08-27 12 45 11" src="https://github.com/user-attachments/assets/0e4984d0-fcfb-4123-a0c9-6fef92ebdd4d" />
-
-- **관리자 기능**
----
-  
-<img width="1390" height="781" alt="스크린샷 2025-08-27 12 45 24" src="https://github.com/user-attachments/assets/d4f01982-14fa-4927-957d-e2450223c735" />
-
-- **관리자 유저 설정**
----
-
-<img width="1390" height="781" alt="스크린샷 2025-08-27 12 45 29" src="https://github.com/user-attachments/assets/f6264d7b-9602-4c7a-8650-64496ad9bee8" />
-
-- **관리자 퀴즈 설정**
----
 
