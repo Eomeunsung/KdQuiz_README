@@ -3,8 +3,8 @@ KdQuiz는 “카훗”을 벤치마킹하여 개발된 퀴즈 기반 학습 플�
 
 
 ## Repository
-- **Front**: https://github.com/Eomeunsung/Kquiz-Front.git (아직 반영안함)
-- **BackEnd**: https://github.com/Eomeunsung/Kquiz-Back.git (아직 반영안함)
+- **Front**: https://github.com/kdquiz/kdquiz-front
+- **BackEnd**: https://github.com/Eomeunsung/KdQuiz_Back.git
 
 ## 팀원
 - **보고서** : 2명
